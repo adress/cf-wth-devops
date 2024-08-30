@@ -52,6 +52,9 @@ const Index = ({ pets }) => {
           </div>
         </div>
       ))}
+      <center>
+        <h3>Jaime Andres Ortiz Aranda</h3>
+      </center>
     </>
   );
 };
